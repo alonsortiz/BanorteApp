@@ -17,7 +17,7 @@ Once you have Ionic and all necessary dependencies installed, you can run the ap
 ### Desktop browser
 Test the app in a browser running the serve command in the project’s root folder.
 ```
-$ cd CanChamApp
+$ cd BanorteApp
 $ ionic serve
 ```
 
